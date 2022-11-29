@@ -9,6 +9,6 @@ public class AirlineReservationBackendProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AirlineReservationBackendProjectApplication.class, args);
-	}
+	} 
 
 }
